@@ -1,5 +1,7 @@
 # Study_notes
 ### 学习笔记
+## Android
+> * [Tips]( https://github.com/tangqi92/Android-Tips)
 ## Kotlin
 * 介绍Kotlin基础使用的4篇文章：  
 > 
